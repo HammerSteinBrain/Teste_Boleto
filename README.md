@@ -16,10 +16,14 @@ Executar o projeto com o gerenciador de dependencias Gradle 5
 ![alt text](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Screenshot_1.png)
 
 ### Criando casos de testes simples
-* [Procedimento de Teste](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Casos_de_Teste.docx)
+![alt text](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Caso_teste.png)
+
+* [Procedimento de Teste](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Casos_de_Teste.docx) - Download Docx
 
 ### Relatorio dos testes
-* [Relatorio dos testes](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Resultado_Teste.xlsx)
+![alt text](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Resultado Testes.png)
+
+* [Relatorio dos testes](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Resultado_Teste.xlsx) - Download xml
 
 ## Desenvolvimento
 -Java
