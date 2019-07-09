@@ -6,8 +6,8 @@ Trabalho Final para a disciplina de Teste de Software
 
 Professor Fabricio
 
-### Criando casos de testes simples
-* [Descrição da Atividade](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/unidade_02_trabalho_pratico_01_v_2019_01.pdf) - Enunciado do Trabalho
+### Enunciado da Atividade Proposta
+* [Descrição da Atividade](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/unidade_02_trabalho_pratico_01_v_2019_01.pdf)
 
 ### Pre-requisitos
 
