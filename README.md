@@ -21,7 +21,7 @@ Executar o projeto com o gerenciador de dependencias Gradle 5
 * [Procedimento de Teste](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Casos_de_Teste.docx) - Download Docx
 
 ### Relatorio dos testes
-![alt text](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Resultado Testes.png)
+![alt text](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Resultado_Testes.png)
 
 * [Relatorio dos testes](https://github.com/HammerSteinBrain/Teste_Boleto/blob/master/Resultado_Teste.xlsx) - Download xml
 
